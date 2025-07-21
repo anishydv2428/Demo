@@ -1,4 +1,4 @@
 # Demo
 My first Git Repository
 <br>
-Author-Anish
+Author-Anish Yadav
